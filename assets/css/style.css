@@ -1,0 +1,13 @@
+
+#ide-container{
+    position: relative;
+    height: 100vh;
+}
+
+#editor {
+    position: absolute;
+    height: 400px;
+    width: 98%;
+    left: 2px;
+    top: 0;
+}
